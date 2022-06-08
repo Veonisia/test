@@ -93,7 +93,7 @@ function Library:CreateWindow(windowname,windowinfo)
     Title.Size = UDim2.new(0, 355, 0, 33)
     Title.Font = Enum.Font.GothamSemibold
     Title.Text = windowname
-    Title.TextColor3 = Color3.fromRGB(144, 255, 245)
+    Title.TextColor3 = Color3.fromRGB(255, 247, 40) -- TITTLEEEEEEEEEEEEE
     Title.TextSize = 14.000
     Title.TextXAlignment = Enum.TextXAlignment.Left
 
